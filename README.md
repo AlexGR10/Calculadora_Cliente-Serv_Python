@@ -1,5 +1,3 @@
-Claro, aquí tienes un ejemplo básico de un README para tu programa de calculadora cliente-servidor en Python:
-
 ```markdown
 # Calculadora Cliente-Servidor en Python
 
